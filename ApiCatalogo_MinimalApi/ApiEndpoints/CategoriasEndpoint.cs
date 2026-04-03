@@ -1,5 +1,6 @@
 ﻿using ApiCatalogo_MinimalApi.Context;
 using ApiCatalogo_MinimalApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace ApiCatalogo_MinimalApi.ApiEndpoints
 {
